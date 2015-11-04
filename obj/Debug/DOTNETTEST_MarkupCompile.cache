@@ -1,0 +1,20 @@
+﻿DOTNETTEST
+
+
+winexe
+C#
+.cs
+C:\Users\Krzysztof\documents\visual studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\
+dotnet
+none
+false
+DEBUG;TRACE
+C:\Users\Krzysztof\documents\visual studio 2013\Projects\DOTNETTEST\DOTNETTEST\App.xaml
+81741421756
+21221472245
+262078118289
+17-84956344
+Content Controls\CustomerControl.xaml;Filters\EmployeeFilter.xaml;Filters\OrderFilter.xaml;Filters\ProductFilter.xaml;Filters\CustomerFilter.xaml;Login.xaml;MainWindow.xaml;XIcon.xaml;
+
+False
+

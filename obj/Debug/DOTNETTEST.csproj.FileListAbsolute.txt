@@ -1,0 +1,36 @@
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\bin\Debug\NORTHWND.MDF
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\bin\Debug\NORTHWND_log.ldf
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\bin\Debug\DOTNETTEST.exe.config
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\bin\Debug\DOTNETTEST.exe
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\bin\Debug\DOTNETTEST.pdb
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\bin\Debug\EntityFramework.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\bin\Debug\EntityFramework.xml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\Content Controls\CustomerControl.baml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\CustomerFilter.baml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\EmployeeFilter.baml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\OrderFilter.baml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\ProductFilter.baml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\Login.baml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\XIcon.baml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\Content Controls\CustomerControl.g.cs
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\CustomerFilter.g.cs
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\EmployeeFilter.g.cs
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\OrderFilter.g.cs
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\ProductFilter.g.cs
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\Login.g.cs
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\MainWindow.g.cs
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\XIcon.g.cs
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\App.g.cs
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST_Content.g.cs
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST_MarkupCompile.cache
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST_MarkupCompile.lref
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\MainWindow.baml
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.g.resources
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\dotnet.Properties.Resources.resources
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.csproj.GenerateResource.Cache
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.exe
+C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.pdb
+C:\Users\Krzysztof\documents\visual studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.csprojResolveAssemblyReference.cache

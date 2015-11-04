@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="dotnet.CustomerControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="600" BorderThickness="1" BorderBrush="DeepSkyBlue">
+    <Grid Name="grid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition/>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition/>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="ID"  Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="Id" Text="123456" Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center"> </TextBox>
+        <Label Content="Title"  Grid.Row="0" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="Title" Text="Mr" Grid.Row="0" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBox>
+        <Label Content="Name"  Grid.Row="0" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="Name" Text="ABC XYZ" Grid.Row="0" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Label Content="Company"  Grid.Row="0" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="Company"  Text="XXXXX" Grid.Row="0" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBox>
+        <Label Content="Address"  Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto"></Label>
+        <TextBox Name="Address" Text="AAAAA 34/43" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBox>
+        <Label Content="City"  Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="City" Text="Warsaw" Grid.Row="1" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Label Content="Region"  Grid.Row="1" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="Region" Text="Mazowieckie" Grid.Row="1" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Label Content="Postcode"  Grid.Row="1" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="Code" Text="02-0000" Grid.Row="1" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBox>
+        <Label Content="Country"  Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="Country" Text="Poland" Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBox>
+        <Label Content="Phone"  Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="Phone" Text="123-456-789" Grid.Row="2" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBox>
+        <Label Content="Fax"  Grid.Row="2" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="Fax" Text="123-456-789" Grid.Row="2" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBox>
+        <Button Name="Edit" Background="DeepSkyBlue" Grid.Row="3" Grid.Column="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Click="EditContent" Margin="5,5,5,5">Edit</Button>
+        <Button Name="Cancel" Background="DeepSkyBlue" Grid.Row="3" Grid.Column="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Visibility="Hidden" Click="CancelChanges" Margin="5,5,5,5">Cancel</Button>
+        <Button Name="Save" Background="DeepSkyBlue" Grid.Row="3" Grid.Column="7" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Visibility="Hidden" Click="SaveChanges" Margin="5,5,5,5" >Save</Button>
+    </Grid>
+</UserControl>
