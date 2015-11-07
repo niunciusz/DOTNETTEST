@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="dotnet.ProductControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="600" BorderThickness="1" BorderBrush="DeepSkyBlue">
+    <Grid Name="grid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition/>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition/>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+       
+        </Grid.RowDefinitions>
+        <Label Content="ID"  Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="Id" Text="123456" Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center"> </TextBox>
+        <Label Content="Name"  Grid.Row="0" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="ProductName" Text="Product" Grid.Row="0" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBox>
+        <Label Content="Category ID"  Grid.Row="0" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="CategoryID" Text="ABC XYZ" Grid.Row="0" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Label Content="Quantity/Unit"  Grid.Row="0" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="QuantityPerUnit"  Text="10" Grid.Row="0" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBox>
+        <Label Content="Unit Price"  Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto"></Label>
+        <TextBox Name="UnitPrice" Text="100" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBox>
+        <Label Content="In Stock"  Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="UnitsInStock" Text="20" Grid.Row="1" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Label Content="Discontinued"  Grid.Row="1" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="Discontinued" Text="false" Grid.Row="1" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+       
+        <Button Name="Edit" Background="DeepSkyBlue" Grid.Row="1" Grid.Column="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Click="EditContent" Margin="5,5,5,5">Edit</Button>
+        <Button Name="Cancel" Background="DeepSkyBlue" Grid.Row="1" Grid.Column="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Visibility="Hidden" Click="CancelChanges" Margin="5,5,5,5">Cancel</Button>
+        <Button Name="Save" Background="DeepSkyBlue" Grid.Row="1" Grid.Column="7" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Visibility="Hidden" Click="SaveChanges" Margin="5,5,5,5" >Save</Button>
+    </Grid>
+</UserControl>

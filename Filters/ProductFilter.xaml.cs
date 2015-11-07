@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace dotnet.Filters
 {
     /// <summary>
-    /// Interaction logic for ProductFilter.xaml
+    /// Interaction logic for CustomerFilter.xaml
     /// </summary>
     public partial class ProductFilter : UserControl
     {

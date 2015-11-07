@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="dotnet.OrderControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="600" BorderThickness="1" BorderBrush="DeepSkyBlue">
+    <Grid Name="grid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition/>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition/>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="ID"  Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="Id" Text="123456" Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Label Content="Customer ID"  Grid.Row="0" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="CustomerID" Text="Product" Grid.Row="0" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBox>
+        <Label Content="Employee ID"  Grid.Row="0" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="EmployeeID" Text="ABC XYZ" Grid.Row="0" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Label Content="Order Date"  Grid.Row="0" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="OrderDate"  Text="10" Grid.Row="0" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBox>
+        <Label Content="Required Date"  Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto"></Label>
+        <TextBox Name="RequiredDate" Text="100" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" ></TextBox>
+        <Label Content="Shipped Date"  Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="ShippedDate" Text="20" Grid.Row="1" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Label Content="Ship Name"  Grid.Row="1" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="ShipName" Text="false" Grid.Row="1" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Label Content="Ship Address"  Grid.Row="1" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="ShipAddress" Text="20" Grid.Row="1" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Label Content="Ship City"  Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="ShipCity" Text="false" Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Label Content="Ship Region"  Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="ShipRegion" Text="20" Grid.Row="2" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Label Content="Ship Code"  Grid.Row="2" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="ShipPostalCode" Text="false" Grid.Row="2" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Label Content="Ship Country"  Grid.Row="2" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center" Width="auto" ></Label>
+        <TextBox Name="ShipCountry" Text="false" Grid.Row="2" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBox>
+        <Button Name="Edit" Background="DeepSkyBlue" Grid.Row="3" Grid.Column="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Click="EditContent" Margin="5,5,5,5">Edit</Button>
+        <Button Name="Cancel" Background="DeepSkyBlue" Grid.Row="3" Grid.Column="6" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Visibility="Hidden" Click="CancelChanges" Margin="5,5,5,5">Cancel</Button>
+        <Button Name="Save" Background="DeepSkyBlue" Grid.Row="3" Grid.Column="7" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Visibility="Hidden" Click="SaveChanges" Margin="5,5,5,5" >Save</Button>
+    </Grid>
+</UserControl>

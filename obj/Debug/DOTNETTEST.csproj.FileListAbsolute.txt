@@ -34,3 +34,190 @@ C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\o
 C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.exe
 C:\Users\Krzysztof\Documents\Visual Studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.pdb
 C:\Users\Krzysztof\documents\visual studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\ProductFilter.baml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\OrderFilter.baml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\EmployeeFilter.baml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\CustomerFilter.baml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Login.baml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\XIcon.baml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\ProductFilter.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\OrderFilter.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\EmployeeFilter.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\CustomerFilter.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Login.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\MainWindow.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\XIcon.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\App.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST_Content.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST_MarkupCompile.cache
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST_MarkupCompile.lref
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\bin\Debug\NORTHWND.MDF
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\bin\Debug\NORTHWND_log.ldf
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\bin\Debug\DOTNETTEST.exe.config
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\bin\Debug\DOTNETTEST.exe
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\bin\Debug\DOTNETTEST.pdb
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\bin\Debug\EntityFramework.dll
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\bin\Debug\GitHubSharp.dll
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\bin\Debug\EntityFramework.xml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\MainWindow.baml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.g.resources
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\dotnet.Properties.Resources.resources
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.csproj.GenerateResource.Cache
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.exe
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.pdb
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\Loading.baml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\OrderControl.baml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\CustomerControl.baml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\EmployeeControl.baml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\ProductControl.baml
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\Loading.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\OrderControl.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\CustomerControl.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\EmployeeControl.g.cs
+C:\Users\Natalia\Documents\Desktop\project net\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\ProductControl.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\bin\Debug\DOTNETTEST.exe.config
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\DOTNETTEST.exe
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\DOTNETTEST.pdb
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\bin\Debug\NORTHWND.MDF
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\bin\Debug\NORTHWND_log.ldf
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\bin\Debug\DOTNETTEST.exe
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\bin\Debug\DOTNETTEST.pdb
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\bin\Debug\EntityFramework.dll
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\bin\Debug\GitHubSharp.dll
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\bin\Debug\EntityFramework.xml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\DOTNETTEST.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Content_Controls\Loading.baml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Content_Controls\OrderControl.baml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Content_Controls\CustomerControl.baml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Content_Controls\EmployeeControl.baml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Content_Controls\ProductControl.baml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Filters\ProductFilter.baml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Filters\OrderFilter.baml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Filters\EmployeeFilter.baml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Filters\CustomerFilter.baml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Login.baml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\XIcon.baml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Content_Controls\Loading.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Content_Controls\OrderControl.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Content_Controls\CustomerControl.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Content_Controls\EmployeeControl.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Content_Controls\ProductControl.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Filters\ProductFilter.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Filters\OrderFilter.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Filters\EmployeeFilter.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Filters\CustomerFilter.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\Login.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\MainWindow.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\XIcon.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\App.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\DOTNETTEST_Content.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\DOTNETTEST_MarkupCompile.cache
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\DOTNETTEST_MarkupCompile.lref
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\MainWindow.baml
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\DOTNETTEST.g.resources
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\dotnet.Properties.Resources.resources
+C:\Users\Natalia\Documents\GitHub\DOTNET\DOTNETTEST\obj\Debug\DOTNETTEST.csproj.GenerateResource.Cache
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\bin\Debug\DOTNETTEST.exe.config
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.exe
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.pdb
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\bin\Debug\NORTHWND.MDF
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\bin\Debug\NORTHWND_log.ldf
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\bin\Debug\DOTNETTEST.exe
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\bin\Debug\DOTNETTEST.pdb
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\bin\Debug\EntityFramework.dll
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\bin\Debug\GitHubSharp.dll
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\bin\Debug\EntityFramework.xml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\Loading.baml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\OrderControl.baml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\CustomerControl.baml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\EmployeeControl.baml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\ProductControl.baml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\ProductFilter.baml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\OrderFilter.baml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\EmployeeFilter.baml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\CustomerFilter.baml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Login.baml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\XIcon.baml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\Loading.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\OrderControl.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\CustomerControl.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\EmployeeControl.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Content_Controls\ProductControl.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\ProductFilter.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\OrderFilter.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\EmployeeFilter.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Filters\CustomerFilter.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\Login.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\MainWindow.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\XIcon.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\App.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST_Content.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST_MarkupCompile.cache
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST_MarkupCompile.lref
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\MainWindow.baml
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.g.resources
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\dotnet.Properties.Resources.resources
+C:\Users\Natalia\Documents\GitHub\DOTNETTEST\DOTNETTEST\obj\Debug\DOTNETTEST.csproj.GenerateResource.Cache
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\bin\Debug\DOTNETTEST.exe.config
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\DOTNETTEST.exe
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\DOTNETTEST.pdb
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\bin\Debug\NORTHWND.MDF
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\bin\Debug\NORTHWND_log.ldf
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\bin\Debug\DOTNETTEST.exe
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\bin\Debug\DOTNETTEST.pdb
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\bin\Debug\EntityFramework.xml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\DOTNETTEST.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Content_Controls\Loading.baml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Content_Controls\OrderControl.baml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Content_Controls\CustomerControl.baml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Content_Controls\EmployeeControl.baml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Content_Controls\ProductControl.baml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Filters\ProductFilter.baml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Filters\OrderFilter.baml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Filters\EmployeeFilter.baml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Filters\CustomerFilter.baml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Login.baml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\XIcon.baml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Content_Controls\Loading.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Content_Controls\OrderControl.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Content_Controls\CustomerControl.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Content_Controls\EmployeeControl.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Content_Controls\ProductControl.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Filters\ProductFilter.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Filters\OrderFilter.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Filters\EmployeeFilter.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Filters\CustomerFilter.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\Login.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\MainWindow.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\XIcon.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\App.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\DOTNETTEST_Content.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\DOTNETTEST_MarkupCompile.cache
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\DOTNETTEST_MarkupCompile.lref
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\MainWindow.baml
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\DOTNETTEST.g.resources
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\dotnet.Properties.Resources.resources
+C:\Users\Natalia\Documents\Desktop\Project\DOTNETTEST\obj\Debug\DOTNETTEST.csproj.GenerateResource.Cache
+C:\Users\Natalia\Documents\GitHub\Project\DOTNETTEST\bin\Debug\DOTNETTEST.exe.config
+C:\Users\Natalia\Documents\GitHub\Project\DOTNETTEST\obj\Debug\DOTNETTEST.exe
+C:\Users\Natalia\Documents\GitHub\Project\DOTNETTEST\obj\Debug\DOTNETTEST.pdb

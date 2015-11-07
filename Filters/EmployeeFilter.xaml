@@ -17,7 +17,7 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <Button Content="Filter" Grid.Column="3" Grid.Row="2" Name="filter_button" Background="DeepSkyBlue" />
+        <Button Content="Filter" Grid.Column="3" Grid.Row="2" Margin="3" Name="filter_button" Background="DeepSkyBlue" />
         <Label Content="City" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="10" />
         <Label Content="Country" HorizontalAlignment="Stretch" Grid.Column="2" VerticalAlignment="Center" FontSize="10"/>
 

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Krzysztof\documents\visual studio 2013\Projects\DOTNETTEST\DOTNETTEST\obj\Debug\
+C:\Users\Natalia\Documents\GitHub\Project\DOTNETTEST\obj\Debug\
 dotnet
 none
 false
 DEBUG;TRACE
-C:\Users\Krzysztof\documents\visual studio 2013\Projects\DOTNETTEST\DOTNETTEST\App.xaml
-81741421756
+C:\Users\Natalia\Documents\GitHub\Project\DOTNETTEST\App.xaml
+121772155547
 21221472245
-30-1940171729
-17-84956344
-Content Controls\CustomerControl.xaml;Filters\EmployeeFilter.xaml;Filters\OrderFilter.xaml;Filters\ProductFilter.xaml;Filters\CustomerFilter.xaml;Login.xaml;MainWindow.xaml;XIcon.xaml;
+36-1796152467
+19-1977022126
+Content_Controls\Loading.xaml;Content_Controls\OrderControl.xaml;Content_Controls\CustomerControl.xaml;Content_Controls\EmployeeControl.xaml;Content_Controls\ProductControl.xaml;Filters\ProductFilter.xaml;Filters\OrderFilter.xaml;Filters\EmployeeFilter.xaml;Filters\CustomerFilter.xaml;Login.xaml;MainWindow.xaml;XIcon.xaml;
 
 False
 
